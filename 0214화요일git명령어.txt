@@ -1,0 +1,35 @@
+다시 cmd
+C:\Users\guro-hi> dir
+C:\Users\guro-hi> cd\
+C:\> cls  
+C:\> cd Mtest
+C:\Mtest> cd worksql
+C:\Mtest\worksql> cd LG
+C:\Mtest\worksql\LG> cls
+C:\Mtest\worksql\LG> dir
+C:\Mtest\worksql\LG> git init
+C:\Mtest\worksql\LG> git remote add  origin  여러분깃주소
+C:\Mtest\worksql\LG> git pull  origin master
+C:\Mtest\worksql\LG> git remote
+  origin출력
+C:\Mtest\worksql\LG> git branch
+  *master출력
+git push origin master
+
+
+깃허브사이트에서 삭제및 수정한후 다시 땡겨옴=pull
+C:\Mtest\worksql\LG> git pull  origin master
+
+
+처음에 깃에 올릴때
+C:\Mtest\workhtml\test> git init
+C:\Mtest\workhtml\test> git add  *.* 
+C:\Mtest\workhtml\test> git commit -m "02-14-화요일cookie" 
+C:\Mtest\workhtml\test> git remote add  origin  깃주소
+C:\Mtest\workhtml\test> git remote 
+C:\Mtest\workhtml\test> git branch 
+C:\Mtest\workhtml\test> git push origin  master
+
+
+깃허브사이트에서 삭제및 수정한후 다시 땡겨옴=pull
+C:\Mtest\worksql\LG> git pull  origin master

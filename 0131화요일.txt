@@ -1,0 +1,141 @@
+영임쌤 컴퓨터  ip주소 192.168.0.157
+ \\192.168.0.157
+
+
+유승관 89년  고지수 03년
+최수완 97년  안예인 93년 
+김소정 99년  차승혁 94년 
+성한솔 94년  김영임 강사쌤
+차동현 00년  박세정 96년 
+김은주 93년  조수빈 96년 
+박미르 98년  김재동 93년 
+윤여진 98년  이호영 94년 
+김정진 01년  이기주 81년  
+이정민 04년  박준수 96년  
+
+
+\\192.168.0.157
+Mtest
+ ㄴworkhtml
+   ㄴday0130  
+     ㄴimages폴더 복붙 
+     ㄴ01test.html ==> 수작업 기술
+     ㄴ02test.html ==> 이미지 속성=옵션변경
+     ㄴ03test.html ==> header숫자 제목
+     ㄴ04test.html ==> 2행 2열  그림사이즈변경,높이 
+   ㄴday0131
+     ㄴimages폴더 복붙 
+     ㄴ01sample.html ==> 아직은 작성 안했습니다 
+
+   ㄴday0201
+
+  day0130폴더에서 현재폴더접근 ./images추천
+  day0130폴더에서 현재폴더접근  /images가능
+  day0130폴더에서 상위폴더접근 ../images상위폴더     
+
+day0131
+ ㄴimages폴더 복붙 
+ ㄴ01testfont.html 
+ ㄴ05testbold.html 
+
+태그=tag
+ 자동엔터기능 <h1> </h1>  <br></br> <p></p>  <hr> <ol> <ul>
+ 엔터지원안됨 <img src>,  <font size=7>
+ 글꼴변화 <b>짙하게</b>  <u>밑줄</u> <i>이태릭체</i>
+
+순서있음  order List = ol     숫자번호 a/A/a/i/I
+순서없음  unorder List = ul  disc●  ○circle □square
+
+ 여의도 안면도 죽도   독도    울릉도  선유도  샤랑도 
+ 제주도 강화도 대부도  나로도  백령도  월미도  
+
+ 09testol.html
+ 10testul.html
+ 11testolul.html    ===>여러분관심 5개이상
+ 12testolul영임.html ===>여러분관심 5개이상
+ 13testolul.html    ===>12페이지작성
+ 14testdd.html
+  
+
+DL=definition List정의목록
+DT=definition Term정의용어
+DD=definition description정의설명
+
+  <ins> <u>
+  <del> <strike>
+
+   <ins> 아마존 cherry </ins> <p></p>
+   <del> 아마존 cherry </del> <p></p>
+   <strike>  아마존 cherry </strike> <p></p>
+   <u> 아마존 cherry </u>
+
+
+vscode 다운로드 입력
+https://code.visualstudio.com/download
+
+VScode설치후
+ ㄴFile메뉴 auto save체크 처음한번만설정
+ ㄴ5번째 확장아이콘 live server설치 처음한번만설치
+ ㄴFile메뉴 Open folder선택 작업폴더 day0130 
+
+웹브라우저
+ ㄴ통신규약 http
+   통신프로토콜 tcp/ip, ftp, smtp, udp
+ ㄴ웹브라우저 인식하는 언어 html = hyper text mark-up language
+ ㄴhtml태그규칙
+   ㄴ대소문자구별없음 < >태그=tag/ 쌍태그<h2>안내문 </h2>  홀태그<br><p>
+   ㄴ줄단위 문장마지막 세미콜론없음; 
+<html> 
+ <head> <title> </title> </head> 
+ <body>  
+   <h숫자>안내문 </h숫자> 
+   <img src='폴더/파일'>   
+ </body> 
+</html>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+#-----------------------------------------------------
+윈도우시작클릭후    cmd
+C:\Users\guro-hi> ipconfig
+   192.168.0.157
+   192.168.0.XXX
+C:\Users\guro-hi> cls
+C:\Users\guro-hi> dir
+C:\Users\guro-hi> cls
+C:\Users\guro-hi> cd \
+C:\> ipconfig
+C:\> exit
+
+
+윈도우시작클릭
+\\192.168.0.157
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
